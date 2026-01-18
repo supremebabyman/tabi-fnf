@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- OPTIMIZADO POR The Spring -->
+<TextureAtlas imagePath="front flame right">
+    <SubTexture name="fire instance 10000" x="0" y="0" width="388" height="407" frameWidth="444" frameHeight="466" frameX="-23" frameY="-46"/>
+    <SubTexture name="fire instance 10001" x="0" y="0" width="388" height="407" frameWidth="444" frameHeight="466" frameX="-23" frameY="-46"/>
+    <SubTexture name="fire instance 10002" x="389" y="0" width="414" height="406" frameWidth="444" frameHeight="466" frameX="-8" frameY="-54"/>
+    <SubTexture name="fire instance 10003" x="804" y="0" width="437" height="425" frameWidth="444" frameHeight="466" frameX="-7" frameY="-38"/>
+    <SubTexture name="fire instance 10004" x="804" y="0" width="437" height="425" frameWidth="444" frameHeight="466" frameX="-7" frameY="-38"/>
+    <SubTexture name="fire instance 10005" x="0" y="435" width="362" height="444" frameWidth="444" frameHeight="466" frameX="0" frameY="-22"/>
+    <SubTexture name="fire instance 10006" x="0" y="435" width="362" height="444" frameWidth="444" frameHeight="466" frameX="0" frameY="-22"/>
+    <SubTexture name="fire instance 10007" x="363" y="435" width="355" height="452" frameWidth="444" frameHeight="466" frameX="-12" frameY="-8"/>
+    <SubTexture name="fire instance 10008" x="719" y="435" width="379" height="460" frameWidth="444" frameHeight="466" frameX="0" frameY="0"/>
+    <SubTexture name="fire instance 10009" x="719" y="435" width="379" height="460" frameWidth="444" frameHeight="466" frameX="0" frameY="0"/>
+    <SubTexture name="fire instance 10010" x="0" y="905" width="395" height="402" frameWidth="444" frameHeight="466" frameX="-1" frameY="-57"/>
+    <SubTexture name="fire instance 10011" x="0" y="905" width="395" height="402" frameWidth="444" frameHeight="466" frameX="-1" frameY="-57"/>
+    <SubTexture name="fire instance 10012" x="396" y="905" width="378" height="411" frameWidth="444" frameHeight="466" frameX="-15" frameY="-51"/>
+</TextureAtlas>
